@@ -1,5 +1,6 @@
 {
     "name": "arcreative/php-address-format",
+    "version": "0.0.1",
     "description": "Simple address formatting for the masses",
     "license": "MIT",
     "authors": [
