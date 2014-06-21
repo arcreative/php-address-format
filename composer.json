@@ -1,0 +1,19 @@
+{
+    "name": "arcreative/php-address-format",
+    "description": "Simple address formatting for the masses",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Robertson",
+            "email": "adam@arcreative.net"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "AddressFormat\\": "src/"
+        }
+    }
+}
