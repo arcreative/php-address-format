@@ -37,4 +37,4 @@ Gladly accepting contributions, hopefully in the form of additional countries.  
 
 #### Other implementations
 
-This same implementation exists for Node/JS as well at [arcreative/node-address-format](https://github.com/arcreative/node-address-format)
+* Node/JS [arcreative/node-address-format](https://github.com/arcreative/node-address-format)
