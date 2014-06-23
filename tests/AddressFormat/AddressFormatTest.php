@@ -71,9 +71,6 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase {
     }
 
     public function testDkShouldNotOutputState() {
-
-        ini_set('error_reporting', "E_ALL");
-
         $address = array(
             'city' => 'city',
             'subdivision' => 'state',
